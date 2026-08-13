@@ -4,7 +4,7 @@
 
 $groupId = "399116940"
 $visitorRole = "12884901889"
-$targetRole = "750649041"
+$targetRole = "753763099"
 
 $apiKey = $env:ROBLOX_API_KEY
 
